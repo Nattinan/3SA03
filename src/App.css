@@ -38,6 +38,12 @@
 }
 
 .activeCard {
-  color: red;
-  background: pink;
+  color: greenyellow;
+  background: blue;
+}
+
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
 }

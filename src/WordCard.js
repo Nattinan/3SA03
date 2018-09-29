@@ -43,9 +43,12 @@ export default class WordCard extends Component {
                 guess: [], 
                 attempt: this.state.attempt + 1})
             }
-            }
+            } 
+             
            }
-    
+           
+      
+
     render() {
         console.log(this.state);
         return (
@@ -54,6 +57,8 @@ export default class WordCard extends Component {
 activationHandler={this.activationHandler}/>
         )}
               </div>
+
+              
          );
      }
  }
