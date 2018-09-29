@@ -8,7 +8,11 @@ class App extends Component {
     return (
       <div>
         <WordCard value="Nattinan"/>
+        <p>Student ID: 5935512051</p>
+        <p>Name-Sname: Nattinan Kongleng</p>
       </div>
+
+     
     );
   }
 }

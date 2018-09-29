@@ -38,8 +38,8 @@
 }
 
 .activeCard {
-  color: greenyellow;
-  background: blue;
+  color: blue;
+  background: rgb(21, 255, 0);
 }
 
 .popup {
